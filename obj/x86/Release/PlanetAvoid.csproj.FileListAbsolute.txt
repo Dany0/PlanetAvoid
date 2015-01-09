@@ -19,3 +19,6 @@ D:\Dropbox\projekt_uprava\PlanetAvoid\PlanetAvoid\obj\x86\Release\PlanetAvoid.Fo
 F:\PlanetAvoid\new\PlanetAvoid\bin\Release\PlanetAvoid.exe.config
 F:\PlanetAvoid\new\PlanetAvoid\obj\x86\Release\PlanetAvoid.exe
 F:\PlanetAvoid\new\PlanetAvoid\obj\x86\Release\PlanetAvoid.pdb
+D:\Old\Projects\PlanetAvoid\PlanetAvoid\bin\Release\PlanetAvoid.exe.config
+D:\Old\Projects\PlanetAvoid\PlanetAvoid\obj\x86\Release\PlanetAvoid.exe
+D:\Old\Projects\PlanetAvoid\PlanetAvoid\obj\x86\Release\PlanetAvoid.pdb
